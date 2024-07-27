@@ -58,7 +58,7 @@ After receiving the data from the database, you can process it and perform any o
 As mentioned earlier, it is important to implement good security practices such as using HTTPS, API keys, and input validation to ensure the security of the connection.
 
 
-
+### ESP32 Send Temperature and Humidity data to localhost XAMPP 
 ##### code php
 ex Git :
 ```
